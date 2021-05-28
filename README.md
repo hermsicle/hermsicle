@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Welcome to my profile 
+
+<img src="https://github-readme-stats.vercel.app/api?username=hermsicle&show_icons=true&count_private-true&theme=dark" />
+
 <!--
 **hermsicle/hermsicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
