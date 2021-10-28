@@ -1,23 +1,22 @@
-# Hi, I'm Herman 👋😄
-
 <img src="banner.JPG" alt="XD" />
 
-## About Me
+## About Me 👋😄
 
-I'm a full-stack developer focused in front-end development. I love creating web apps with React. I plan on learning many more tehcnologies (TypeScript, GraphQL, Next.js, and many more)! My passion and love for programming started back in 2019 after creating my first website using HTML, CSS, and JavaScript.
+I'm a full-stack developer focused in front-end development. My passion and love for programming started back in 2019 after creating my first website using HTML, CSS, and JavaScript.
 
 - 🔭 I’m currently working on my data structures and algorithms knowledge
 - 🌱 I’m currently learning TypeScript and GraphQL
-- 👯 I’m looking to collaborate on full-stack || front-end development
-- 🤔 I’m looking for help with landing my first tech job 😭
-- 💬 Ask me about what I like to do for fun
+- 👯 I’m looking to collaborate on full-stack || front-end development projects
+- 🤔 I’m looking for like minded people who share the same interest in web dev
+- 💬 Ask me about cars
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My zodiac sign in 🐷
+- ⚡ Fun fact: I came from a Criminal Justice background
 
 ## How to reach me 📫:
 
-- hermanliu95@gmail.com
-- <a href="https://www.linkedin.com/in/liuherman/" target="_blank"> LinkedIn </a>
+> hermanliu95@gmail.com
+> <br />
+> <a href="https://www.linkedin.com/in/liuherman/" target="_blank"> LinkedIn </a>
 
 ## My Skills 🚀
 
