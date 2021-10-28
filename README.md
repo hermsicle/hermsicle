@@ -11,9 +11,13 @@ I'm a full-stack developer focused in front-end development. I love creating web
 - 👯 I’m looking to collaborate on full-stack || front-end development
 - 🤔 I’m looking for help with landing my first tech job 😭
 - 💬 Ask me about what I like to do for fun
-- 📫 How to reach me: 📧 hermanliu95@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My zodiac sign in 🐷
+
+## How to reach me 📫:
+
+- hermanliu95@gmail.com
+- <a href="https://www.linkedin.com/in/liuherman/" target="_blank"> LinkedIn </a>
 
 ## My Skills 🚀
 
