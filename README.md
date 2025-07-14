@@ -1,5 +1,3 @@
-<img src="banner.JPG" alt="XD" />
-
 ## About Me 👋😄
 
 I'm a full-stack developer focused in front-end development. My passion and love for programming started back in 2019 after creating my first website using HTML, CSS, and JavaScript.
