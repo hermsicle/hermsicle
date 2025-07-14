@@ -1,14 +1,12 @@
 ## About Me 👋😄
 
-I'm a full-stack developer focused in front-end development. My passion and love for programming started back in 2019 after creating my first website using HTML, CSS, and JavaScript.
+Hi, I’m Herman — a front-end software engineer with a love for building intuitive, beautiful, and high-impact web experiences. My path into tech wasn’t traditional, but that’s what makes it meaningful. Coming from a non-technical background, I discovered software engineering through curiosity and grit, and quickly realized that front-end development is where my creativity and problem-solving instincts thrive.
 
-- 🔭 I’m currently working on my data structures and algorithms knowledge
-- 🌱 I’m currently learning TypeScript and GraphQL
-- 👯 I’m looking to collaborate on full-stack || front-end development projects
-- 🤔 I’m looking for like minded people who share the same interest in web dev
-- 💬 Ask me about cars
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I came from a Criminal Justice background
+I’m drawn to the challenge of turning complex ideas into user-friendly interfaces, and I enjoy collaborating with teams to bring products to life. I’ve found my groove in fast-paced environments, where a sense of urgency drives focus, ownership, and momentum. Whether I’m debugging tricky UI issues or designing a smooth user experience, I love the fast feedback loop that front-end work offers — and how it constantly pushes me to grow.
+
+Outside of coding, I’m really into cars — I appreciate the design, precision, and engineering behind them. More recently, I’ve picked up Brazilian Jiu-Jitsu, which has been a humbling and motivating practice that teaches discipline, adaptability, and persistence.
+
+Always learning, always building.
 
 ## How to reach me 📫:
 
